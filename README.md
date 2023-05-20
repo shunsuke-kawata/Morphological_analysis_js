@@ -1,0 +1,2 @@
+# Morphological_analysis_js
+簡単な形態素解析を行うwebアプリの作成
