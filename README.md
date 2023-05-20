@@ -22,6 +22,13 @@
 1. ```localhost:8080```へアクセス
 1. 形態素解析を行うとコンソールに結果が出力される
 
+## 参考
+[Kuromojiであっさり形態素解析](https://zenn.dev/sdkfz181tiger/articles/daef6f0f8156d8)
+
+[Voltaを利用してMacでNode.jsのインストール - homebrewは使わないで！](https://zenn.dev/protoout/articles/17-how-to-nodejs-install)
+
+[簡単にローカルで Web サーバーを立てる３つの方法（Node/Python/VSCode） | Snow System](https://snowsystem.net/development/web-server-simple-launch/#)
+
 
 
 
