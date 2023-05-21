@@ -11,6 +11,4 @@ function analyze_sentence() {
       console.log(token);
     });
   });
-  sentence = "";
-  console.log("end");
 }
