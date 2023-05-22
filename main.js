@@ -9,10 +9,7 @@ async function analyze_sentence() {
     const tokens = tokenizer.tokenize(sentence); // 解析データの取得
     tokens.forEach((token) => {
       // 解析結果を順番に取得する
-      // console.log(token);
-      tmp = token?.surface_form + "," + token?.pos;
+      console.log(token);
     });
   });
-
-  console.log(tmp);
 }
