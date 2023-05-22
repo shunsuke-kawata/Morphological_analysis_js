@@ -9,9 +9,11 @@
 
 
 		<input type="text" style="width: 80%;" id="sentenceToAnalyze"  placeholder="形態素解析する文を入力してください">
-		<input type="button" value = "解析" onclick="analyze_sentence()">
+		<input type="button" value = "解析" onclick="display_result()">
 
 		<br />
+
+		<ul id = "result_ul"></ul>
 
 
 		<script src="./kuromoji.js"></script>
