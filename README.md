@@ -22,6 +22,9 @@
 1. ```http://localhost:8080```へアクセス
 1. 形態素解析を行うとコンソールに結果が出力される
 
+## URL
+[https://morphological-analysis-js.vercel.app/](https://morphological-analysis-js.vercel.app/)
+
 ## 参考
 [Kuromojiであっさり形態素解析](https://zenn.dev/sdkfz181tiger/articles/daef6f0f8156d8)
 
