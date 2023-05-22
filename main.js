@@ -15,7 +15,6 @@ const analyze_sentence = async () => {
       console.log([result.surface_form, result.pos]);
     });
   });
-  console.log(result_array);
   return result_array;
 };
 
